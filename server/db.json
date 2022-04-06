@@ -1,0 +1,376 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        },
+        {
+            "id": 2,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        },
+        {
+            "id": 3,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 4,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 5,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        },
+        {
+            "id": 6,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        },
+        {
+            "id": 7,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        },
+        {
+            "id": 8,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        },
+        {
+            "id": 9,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 10,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 11,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        },
+        {
+            "id": 12,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        },
+        {
+            "id": 13,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        },
+        {
+            "id": 14,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        },
+        {
+            "id": 15,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 16,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 17,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        },
+        {
+            "id": 18,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        }
+    ],
+
+    "acne": [
+        {
+            "id": 1,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        },
+        {
+            "id": 7,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        },
+        {
+            "id": 13,
+            "title": "Acne Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12806730-2044924654148802.jpg",
+            "info1": "100 ml",
+            "info2": "The best acne remover for 3 years in a row",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "39.99 $",
+            "category": "1"
+        }
+    ],
+
+    "pore": [
+        {
+            "id": 2,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        },
+        {
+            "id": 8,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        },
+        {
+            "id": 14,
+            "title": "Pore Cleaning Solution",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208002-2074924655937969.jpg",
+            "info1": "300ml",
+            "info2": "Great for cleaning pores and skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "24.99 $",
+            "category": "2"
+        }
+    ],
+
+    "mouisturizing": [
+        {
+            "id": 3,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 4,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 5,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        },
+        {
+            "id": 9,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 10,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 11,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        },
+        {
+            "id": 15,
+            "title": "Eye Cream",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12276071-2014924654828413.jpg",
+            "info1": "75ml",
+            "info2": "Reduces eyebags and dark circles",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "44.99 $",
+            "category": "3"
+        },
+        {
+            "id": 16,
+            "title": "Face Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12435692-2324928020402314.jpg",
+            "info1": "370ml",
+            "info2": "Heavy moisturizing for extra dry skin",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "19.99 $",
+            "category": "3"
+        },
+        {
+            "id": 17,
+            "title": "Moisturizer",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12211787-7294924654981899.jpg",
+            "info1": "500ml",
+            "info2": "Great for deep moisturizing, everywhere",
+            "info3": "Enviroment-friendly packaging with reused plastic",
+            "price": "27.99 $",
+            "category": "3"
+        }
+    ],
+    
+    "serum": [
+        {
+            "id": 6,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        },
+        {
+            "id": 12,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        },
+        {
+            "id": 18,
+            "title": "Vitamin-enriched Oil",
+            "imgSrc": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12208010-5894924655424051.jpg",
+            "info1": "50ml",
+            "info2": "Returns your skins natural glow",
+            "info3": "Enviroment-friendly packaging made of reused materials",
+            "price": "29.99 $",
+            "category": "4"
+        }
+    ]
+}
